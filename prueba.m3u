@@ -1,14 +1,4 @@
-https://paste.anasor.com/paste.php?id=673
 https://yamcode.com/embed/test-52299
-
-
-#EXTINF:-1 tvg-id="Xconfirmar" tvg-logo="https://www.diosteve.org/img/Dios-Te-Ve-Kids.png" group-title="Infantiles",Dios TeVe Kids
-https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DscvFamilia.Lat" tvg-logo="https://i.ibb.co/S0m7jpR/d-famil.png" group-title="Infantiles",Discovery Familia
-http://jumangis.com:8080/Guisoncontreras/Bu3xKmDG2D/29364
-
-#EXTINF:-1,C | Discovery Familia HD
-http://l3d.us:8080/cambioepg/NRfEhsCq3t/183440
 
 #EXTINF:-1 tvg-logo="http://linkscdn.linkscomdo.netdna-cdn.com/images/cdn-sportmax-en-vivo.jpg"group-title="DOMINICANOS",CDN Sports Max HD 
 http://51.81.93.29:8084/hls/cdnsm.m3u8
