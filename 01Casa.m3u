@@ -35,10 +35,6 @@ http://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
 http://200.24.132.99:8000/play/a006
 #EXTINF:-1 tvg-id="Ec5.Ec" tvg-logo="https://imgur.com/Lk1Q2Sr.png" group-title="Nacionales",Teleamazonas - Quito
 http://200.24.159.179:8500/play/a02h
-#EXTINF:-1 tvg-id="Ec12.Ec" tvg-logo="https://imgur.com/Nox2Qgd.png" group-title="Nacionales",Canal Uno
-https://onedrive.live.com/download.aspx?resid=7EEB6B780761C461%21111&authkey=AGkDE3zCt27G_V8&ithint=video%2cmp4
-#EXTINF:-1 tvg-id="Ec12.Ec" tvg-logo="https://imgur.com/Y1o8pIF.png" group-title="Nacionales",Canal Uno HD
-http://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
 #EXTINF:-1 tvg-id="Ec10.Ec" tvg-logo="https://imgur.com/LUlZuSf.png" group-title="Nacionales",TC Television
 http://45.179.140.242:8000/play/a0j0
 #EXTINF:-1 tvg-id="Ec10HD.Ec" tvg-logo="https://imgur.com/RPsunTT.png" group-title="Nacionales",TC Televisión HD
