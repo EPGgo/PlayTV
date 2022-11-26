@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Buenisimatv.co">
+    <display-name lang="es">COLOMBIA: Buenisima TV</display-name>
+  </channel> 
+  <programme start="20221127230000 -0500" stop="20221128000000 -0500" channel="Buenisimatv.co">
+    <title>Programaición por confirmar</title>
+  </programme>
+  <programme start="20221128000000 -0500" stop="20221128025900 -0500" channel="Buenisimatv.co">
+    <title>El Playlist De Buenísima</title>
+  </programme>
+  <programme start="20221128030000 -0500" stop="20221128050000 -0500" channel="Buenisimatv.co">
+    <title>El Madrugón de Buenísima</title>
+  </programme>
+  <programme start="20221128050000 -0500" stop="20221128080000 -0500" channel="Buenisimatv.co">
+    <title>El Vacile</title>
+  </programme>
+  <programme start="20221128080000 -0500" stop="20221128127000 -0500" channel="Buenisimatv.co">
+    <title>Aló Buenísima</title>
+  </programme>
+  <programme start="20221128127000 -0500" stop="20221128140000 -0500" channel="Buenisimatv.co">
+    <title>Retrobuenisima</title>
+  </programme>
+  <programme start="20221128140000 -0500" stop="20221128170000 -0500" channel="Buenisimatv.co">
+    <title>La Tarde</title>
+  </programme>
+  <programme start="20221128170000 -0500" stop="20221128180000 -0500" channel="Buenisimatv.co">
+    <title>La Hora del Cacique</title>
+  </programme>
+  <programme start="20221128180000 -0500" stop="20221128210000 -0500" channel="Buenisimatv.co">
+    <title>Esto es Diciembre</title>
+  </programme>
+  <programme start="20221128210000 -0500" stop="20221129000000 -0500" channel="Buenisimatv.co">
+    <title>En La Noche</title>
+  </programme>
+  <programme start="20221129000000 -0500" stop="20221129025900 -0500" channel="Buenisimatv.co">
+    <title>El Playlist De Buenísima</title>
+  </programme>
+  <programme start="20221129030000 -0500" stop="20221129050000 -0500" channel="Buenisimatv.co">
+    <title>El Madrugón de Buenísima</title>
+  </programme>
+  <programme start="20221129050000 -0500" stop="20221129080000 -0500" channel="Buenisimatv.co">
+    <title>El Vacile</title>
+  </programme>
+  <programme start="20221129080000 -0500" stop="20221129120000 -0500" channel="Buenisimatv.co">
+    <title>Aló Buenísima</title>
+  </programme>
+  <programme start="20221129120000 -0500" stop="20221129140000 -0500" channel="Buenisimatv.co">
+    <title>Retrobuenisima</title>
+  </programme>
+  <programme start="20221129140000 -0500" stop="20221129170000 -0500" channel="Buenisimatv.co">
+    <title>La Tarde</title>
+  </programme>
+  <programme start="20221129170000 -0500" stop="20221129180000 -0500" channel="Buenisimatv.co">
+    <title>La Hora del Cacique</title>
+  </programme>
+  <programme start="20221129180000 -0500" stop="20221129210000 -0500" channel="Buenisimatv.co">
+    <title>Esto es Diciembre</title>
+  </programme>
+  <programme start="20221129210000 -0500" stop="20221130000000 -0500" channel="Buenisimatv.co">
+    <title>En La Noche</title>
+  </programme>
+  <programme start="20221130000000 -0500" stop="20221130025900 -0500" channel="Buenisimatv.co">
+    <title>El Playlist De Buenísima</title>
+  </programme>
+  <programme start="20221130030000 -0500" stop="20221130050000 -0500" channel="Buenisimatv.co">
+    <title>El Madrugón de Buenísima</title>
+  </programme>
+  <programme start="20221130050000 -0500" stop="20221130080000 -0500" channel="Buenisimatv.co">
+    <title>El Vacile</title>
+  </programme>
+  <programme start="20221130080000 -0500" stop="20221130120000 -0500" channel="Buenisimatv.co">
+    <title>Aló Buenísima</title>
+  </programme>
+  <programme start="20221130120000 -0500" stop="20221130140000 -0500" channel="Buenisimatv.co">
+    <title>Retrobuenisima</title>
+  </programme>
+  <programme start="20221130140000 -0500" stop="20221130170000 -0500" channel="Buenisimatv.co">
+    <title>La Tarde</title>
+  </programme>
+  <programme start="20221130170000 -0500" stop="20221130180000 -0500" channel="Buenisimatv.co">
+    <title>La Hora del Cacique</title>
+  </programme>
+  <programme start="20221130180000 -0500" stop="20221130210000 -0500" channel="Buenisimatv.co">
+    <title>Esto es Diciembre</title>
+  </programme>
+  <programme start="20221130210000 -0500" stop="20221125000000 -0500" channel="Buenisimatv.co">
+    <title>En La Noche</title>
+  </programme>
+  <programme start="20221125000000 -0500" stop="20221125025900 -0500" channel="Buenisimatv.co">
+    <title>El Playlist De Buenísima</title>
+  </programme>
+  <programme start="20221125030000 -0500" stop="20221125050000 -0500" channel="Buenisimatv.co">
+    <title>El Madrugón de Buenísima</title>
+  </programme>
+  <programme start="20221125050000 -0500" stop="20221125080000 -0500" channel="Buenisimatv.co">
+    <title>El Vacile</title>
+  </programme>
+  <programme start="20221125080000 -0500" stop="20221125120000 -0500" channel="Buenisimatv.co">
+    <title>Aló Buenísima</title>
+  </programme>
+  <programme start="20221125120000 -0500" stop="20221125140000 -0500" channel="Buenisimatv.co">
+    <title>Retrobuenisima</title>
+  </programme>
+  <programme start="20221125140000 -0500" stop="20221125170000 -0500" channel="Buenisimatv.co">
+    <title>La Tarde</title>
+  </programme>
+  <programme start="20221125170000 -0500" stop="20221125180000 -0500" channel="Buenisimatv.co">
+    <title>La Hora del Cacique</title>
+  </programme>
+  <programme start="20221125180000 -0500" stop="20221125210000 -0500" channel="Buenisimatv.co">
+    <title>Esto es Diciembre</title>
+  </programme>
+  <programme start="20221125210000 -0500" stop="20221126000000 -0500" channel="Buenisimatv.co">
+    <title>Zona Mix</title>
+  </programme>
+  
+  <programme start="20221126230000 -0500" stop="20221126000000 -0500" channel="Buenisimatv.co">
+    <title>Programación Buenísima TV</title>
+  </programme>
+  <programme start="20221126000000 -0500" stop="20221126050000 -0500" channel="Buenisimatv.co">
+    <title>Zona Mix</title>
+  </programme>
+  <programme start="20221126050000 -0500" stop="20221126080000 -0500" channel="Buenisimatv.co">
+    <title>Iniciando el día con Cristo</title>
+  </programme>
+  <programme start="20221126080000 -0500" stop="20221126090000 -0500" channel="Buenisimatv.co">
+    <title>SurCaribe en Marcha</title>
+  </programme>
+  <programme start="20221126090000 -0500" stop="20221126120000 -0500" channel="Buenisimatv.co">
+    <title>Tu fin de semana</title>
+  </programme>
+  <programme start="20221126120000 -0500" stop="20221126140000 -0500" channel="Buenisimatv.co">
+    <title>El Playlist</title>
+  </programme>
+  <programme start="20221126140000 -0500" stop="20221126170000 -0500" channel="Buenisimatv.co">
+    <title>La Tarde</title>
+  </programme>
+  <programme start="20221126170000 -0500" stop="20221126230000 -0500" channel="Buenisimatv.co">
+    <title>Zona Mix</title>
+  </programme>
+  
+  <programme start="20221126230000 -0500" stop="20221127000000 -0500" channel="Buenisimatv.co">
+    <title>Buenísima TV</title>
+  </programme>
+  <programme start="20221127000000 -0500" stop="20221127050000 -0500" channel="Buenisimatv.co">
+    <title>Zona Mix</title>
+  </programme>
+  <programme start="20221127050000 -0500" stop="20221127130000 -0500" channel="Buenisimatv.co">
+    <title>Los Súper Domingos</title>
+  </programme>
+  <programme start="20221127130000 -0500" stop="20221127170000 -0500" channel="Buenisimatv.co">
+    <title>El Playlist</title>
+  </programme>
+  <programme start="20221127170000 -0500" stop="20221127220000 -0500" channel="Buenisimatv.co">
+    <title>Zona Mix</title>
+  </programme>
+  <programme start="20221127220000 -0500" stop="20221128000000 -0500" channel="Buenisimatv.co">
+    <title>Pirate Radio</title>
+  </programme>
+
+</tv>
